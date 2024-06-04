@@ -6,3 +6,5 @@
 # winget install --id Git.Git -e --source winget
 
 # configurazione della ssh key
+
+# proviamo a creare un repository insieme
